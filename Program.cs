@@ -10,7 +10,8 @@ namespace projekts
     {
         static void Main(string[] args)
         {
-            Console.Writeline
+            Console.Writeline("Sveiki no Lauras");
+            Console.WriteLine("Yo no Berkes");
         }
     }
 }
